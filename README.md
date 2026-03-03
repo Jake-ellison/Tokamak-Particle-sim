@@ -1,4 +1,4 @@
-#H1 Tokamak Particle Tracker 
+# Tokamak Particle Tracker 
 
 A 3D simulation of charged particles magnetically confined within a spherical tokamak. 
 
