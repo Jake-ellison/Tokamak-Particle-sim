@@ -8,3 +8,7 @@ A 2D MHD equilibrium is computed with [FreeGS](https://github.com/freegs-plasma/
 
 Dependencys: NumPy and Taichi
 
+
+
+https://github.com/user-attachments/assets/b8cd5065-0277-42e7-b111-a17494107cb2
+
