@@ -10,5 +10,9 @@ Dependencys: NumPy and Taichi
 
 
 
-https://github.com/user-attachments/assets/b8cd5065-0277-42e7-b111-a17494107cb2
+
+https://github.com/user-attachments/assets/34019048-1d0b-4951-b697-95442e07ba5e
+
+
+
 
