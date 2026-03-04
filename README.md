@@ -11,7 +11,14 @@ Dependencys: NumPy and Taichi
 
 
 
-https://github.com/user-attachments/assets/34019048-1d0b-4951-b697-95442e07ba5e
+https://github.com/user-attachments/assets/397b99f4-f1ca-40db-9137-f21a60f89270
+
+
+
+
+https://github.com/user-attachments/assets/2d49906e-33b2-479e-a5da-cbd0ed9fec6c
+
+
 
 
 
